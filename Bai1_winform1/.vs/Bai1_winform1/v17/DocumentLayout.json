@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OOP\\Bai1_winform1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33815BE0-DE57-4DEE-B388-5CEA6B027093}|Bai1_winform1\\Bai1_winform1.csproj|f:\\oop\\bai1_winform1\\bai1_winform1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33815BE0-DE57-4DEE-B388-5CEA6B027093}|Bai1_winform1\\Bai1_winform1.csproj|solutionrelative:bai1_winform1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33815BE0-DE57-4DEE-B388-5CEA6B027093}|Bai1_winform1\\Bai1_winform1.csproj|F:\\OOP\\Bai1_winform1\\bai1_winform1\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33815BE0-DE57-4DEE-B388-5CEA6B027093}|Bai1_winform1\\Bai1_winform1.csproj|solutionrelative:bai1_winform1\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33815BE0-DE57-4DEE-B388-5CEA6B027093}|Bai1_winform1\\Bai1_winform1.csproj|F:\\OOP\\Bai1_winform1\\bai1_winform1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33815BE0-DE57-4DEE-B388-5CEA6B027093}|Bai1_winform1\\Bai1_winform1.csproj|solutionrelative:bai1_winform1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "F:\\OOP\\Bai1_winform1\\Bai1_winform1\\Diem.cs",
+              "RelativeDocumentMoniker": "Bai1_winform1\\Diem.cs",
+              "ToolTip": "F:\\OOP\\Bai1_winform1\\Bai1_winform1\\Diem.cs",
+              "RelativeToolTip": "Bai1_winform1\\Diem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:10:57.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\OOP\\Bai1_winform1\\Bai1_winform1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1_winform1\\Form1.cs",
+              "ToolTip": "F:\\OOP\\Bai1_winform1\\Bai1_winform1\\Form1.cs",
+              "RelativeToolTip": "Bai1_winform1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:20:32.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\OOP\\Bai1_winform1\\Bai1_winform1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1_winform1\\Form1.cs",
+              "ToolTip": "F:\\OOP\\Bai1_winform1\\Bai1_winform1\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai1_winform1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:10:45.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

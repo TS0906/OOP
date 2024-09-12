@@ -1,0 +1,10 @@
+F:\OOP\Bai1_winform1\Bai1_winform1\bin\Debug\Bai1_winform1.exe.config
+F:\OOP\Bai1_winform1\Bai1_winform1\bin\Debug\Bai1_winform1.exe
+F:\OOP\Bai1_winform1\Bai1_winform1\bin\Debug\Bai1_winform1.pdb
+F:\OOP\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.csproj.AssemblyReference.cache
+F:\OOP\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.Form1.resources
+F:\OOP\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.Properties.Resources.resources
+F:\OOP\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.csproj.GenerateResource.cache
+F:\OOP\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.csproj.CoreCompileInputs.cache
+F:\OOP\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.exe
+F:\OOP\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.pdb
