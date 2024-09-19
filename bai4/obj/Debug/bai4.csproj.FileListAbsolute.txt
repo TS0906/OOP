@@ -1,0 +1,7 @@
+F:\OOP\bai4\bin\Debug\bai4.exe.config
+F:\OOP\bai4\bin\Debug\bai4.exe
+F:\OOP\bai4\bin\Debug\bai4.pdb
+F:\OOP\bai4\obj\Debug\bai4.csproj.AssemblyReference.cache
+F:\OOP\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+F:\OOP\bai4\obj\Debug\bai4.exe
+F:\OOP\bai4\obj\Debug\bai4.pdb

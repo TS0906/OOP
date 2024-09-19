@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\OOP\\Bai3\\",
+  "WorkspaceRootPath": "F:\\OOP\\New folder\\Bai3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B248B474-C2DE-49D5-AC95-EAD427856C1A}|Bai3\\Bai3.csproj|f:\\oop\\bai3\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B248B474-C2DE-49D5-AC95-EAD427856C1A}|Bai3\\Bai3.csproj|f:\\oop\\new folder\\bai3\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B248B474-C2DE-49D5-AC95-EAD427856C1A}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\OOP\\Bai3\\Bai3\\Program.cs",
+              "DocumentMoniker": "F:\\OOP\\New folder\\Bai3\\Bai3\\Program.cs",
               "RelativeDocumentMoniker": "Bai3\\Program.cs",
-              "ToolTip": "F:\\OOP\\Bai3\\Bai3\\Program.cs",
+              "ToolTip": "F:\\OOP\\New folder\\Bai3\\Bai3\\Program.cs",
               "RelativeToolTip": "Bai3\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwEAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T08:10:13.278Z",
               "EditorCaption": ""

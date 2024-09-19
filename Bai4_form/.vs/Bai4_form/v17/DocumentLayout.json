@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OOP\\New folder\\Bai4_form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|f:\\oop\\new folder\\bai4_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|F:\\OOP\\New folder\\Bai4_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|F:\\OOP\\New folder\\Bai4_form\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|solutionrelative:phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\OOP\\New folder\\Bai4_form\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\OOP\\New folder\\Bai4_form\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAuwFwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:14:34.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhanSo.cs",
+              "DocumentMoniker": "F:\\OOP\\New folder\\Bai4_form\\PhanSo.cs",
+              "RelativeDocumentMoniker": "PhanSo.cs",
+              "ToolTip": "F:\\OOP\\New folder\\Bai4_form\\PhanSo.cs",
+              "RelativeToolTip": "PhanSo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:14:11.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\OOP\\New folder\\Bai4_form\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\OOP\\Bai4_form\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Bai4_form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:13:29.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

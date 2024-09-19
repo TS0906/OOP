@@ -1,0 +1,10 @@
+F:\OOP\Bai4_form\obj\Debug\Bai4_form.csproj.AssemblyReference.cache
+F:\OOP\Bai4_form\obj\Debug\Bai4_form.Properties.Resources.resources
+F:\OOP\Bai4_form\obj\Debug\Bai4_form.csproj.GenerateResource.cache
+F:\OOP\Bai4_form\obj\Debug\Bai4_form.csproj.CoreCompileInputs.cache
+F:\OOP\Bai4_form\bin\Debug\Bai4_form.exe.config
+F:\OOP\Bai4_form\bin\Debug\Bai4_form.exe
+F:\OOP\Bai4_form\bin\Debug\Bai4_form.pdb
+F:\OOP\Bai4_form\obj\Debug\Bai4_form.Form1.resources
+F:\OOP\Bai4_form\obj\Debug\Bai4_form.exe
+F:\OOP\Bai4_form\obj\Debug\Bai4_form.pdb
