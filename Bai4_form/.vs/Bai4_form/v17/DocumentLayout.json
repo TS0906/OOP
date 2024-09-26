@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|F:\\OOP\\New folder\\Bai4_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|F:\\OOP\\New folder\\Bai4_form\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|solutionrelative:phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|F:\\OOP\\New folder\\Bai4_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80822A2A-30AB-46E2-A198-7245B0CC2DAC}|Bai4_form.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,26 +36,27 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "F:\\OOP\\New folder\\Bai4_form\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAuwFwAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T08:14:34.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PhanSo.cs",
               "DocumentMoniker": "F:\\OOP\\New folder\\Bai4_form\\PhanSo.cs",
               "RelativeDocumentMoniker": "PhanSo.cs",
               "ToolTip": "F:\\OOP\\New folder\\Bai4_form\\PhanSo.cs",
               "RelativeToolTip": "PhanSo.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAmAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAA5wBYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T08:14:11.08Z"
+              "WhenOpened": "2024-09-19T08:14:11.08Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "F:\\OOP\\New folder\\Bai4_form\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

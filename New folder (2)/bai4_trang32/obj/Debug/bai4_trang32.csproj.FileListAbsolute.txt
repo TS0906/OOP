@@ -1,0 +1,7 @@
+F:\OOP\bai4_trang32\bin\Debug\bai4_trang32.exe.config
+F:\OOP\bai4_trang32\bin\Debug\bai4_trang32.exe
+F:\OOP\bai4_trang32\bin\Debug\bai4_trang32.pdb
+F:\OOP\bai4_trang32\obj\Debug\bai4_trang32.csproj.AssemblyReference.cache
+F:\OOP\bai4_trang32\obj\Debug\bai4_trang32.csproj.CoreCompileInputs.cache
+F:\OOP\bai4_trang32\obj\Debug\bai4_trang32.exe
+F:\OOP\bai4_trang32\obj\Debug\bai4_trang32.pdb

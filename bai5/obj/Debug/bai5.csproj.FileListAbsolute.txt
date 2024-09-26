@@ -5,3 +5,10 @@ F:\OOP\bai5\bin\Debug\bai5.exe
 F:\OOP\bai5\bin\Debug\bai5.pdb
 F:\OOP\bai5\obj\Debug\bai5.exe
 F:\OOP\bai5\obj\Debug\bai5.pdb
+F:\OOP\New folder\bai5\bin\Debug\bai5.exe.config
+F:\OOP\New folder\bai5\bin\Debug\bai5.exe
+F:\OOP\New folder\bai5\bin\Debug\bai5.pdb
+F:\OOP\New folder\bai5\obj\Debug\bai5.csproj.AssemblyReference.cache
+F:\OOP\New folder\bai5\obj\Debug\bai5.csproj.CoreCompileInputs.cache
+F:\OOP\New folder\bai5\obj\Debug\bai5.exe
+F:\OOP\New folder\bai5\obj\Debug\bai5.pdb

@@ -1,0 +1,10 @@
+F:\OOP\Sophuc_WF\bin\Debug\Sophuc_WF.exe.config
+F:\OOP\Sophuc_WF\bin\Debug\Sophuc_WF.exe
+F:\OOP\Sophuc_WF\bin\Debug\Sophuc_WF.pdb
+F:\OOP\Sophuc_WF\obj\Debug\Sophuc_WF.csproj.AssemblyReference.cache
+F:\OOP\Sophuc_WF\obj\Debug\Sophuc_WF.Form1.resources
+F:\OOP\Sophuc_WF\obj\Debug\Sophuc_WF.Properties.Resources.resources
+F:\OOP\Sophuc_WF\obj\Debug\Sophuc_WF.csproj.GenerateResource.cache
+F:\OOP\Sophuc_WF\obj\Debug\Sophuc_WF.csproj.CoreCompileInputs.cache
+F:\OOP\Sophuc_WF\obj\Debug\Sophuc_WF.exe
+F:\OOP\Sophuc_WF\obj\Debug\Sophuc_WF.pdb

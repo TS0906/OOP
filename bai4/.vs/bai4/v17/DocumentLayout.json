@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\OOP\\bai4\\",
+  "WorkspaceRootPath": "F:\\OOP\\New folder\\bai4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13CE3204-17A6-42E7-8982-8D27AFFB3461}|bai4.csproj|f:\\oop\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13CE3204-17A6-42E7-8982-8D27AFFB3461}|bai4.csproj|f:\\oop\\new folder\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13CE3204-17A6-42E7-8982-8D27AFFB3461}|bai4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\OOP\\bai4\\Program.cs",
+              "DocumentMoniker": "F:\\OOP\\New folder\\bai4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\OOP\\bai4\\Program.cs",
+              "ToolTip": "F:\\OOP\\New folder\\bai4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAwwF4AAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T06:10:53.954Z",
               "EditorCaption": ""
