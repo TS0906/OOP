@@ -1,0 +1,10 @@
+F:\OOP\bai4_trang36\bin\Debug\bai4_trang36.exe.config
+F:\OOP\bai4_trang36\bin\Debug\bai4_trang36.exe
+F:\OOP\bai4_trang36\bin\Debug\bai4_trang36.pdb
+F:\OOP\bai4_trang36\obj\Debug\bai4_trang36.csproj.AssemblyReference.cache
+F:\OOP\bai4_trang36\obj\Debug\bai4_trang36.Form1.resources
+F:\OOP\bai4_trang36\obj\Debug\bai4_trang36.Properties.Resources.resources
+F:\OOP\bai4_trang36\obj\Debug\bai4_trang36.csproj.GenerateResource.cache
+F:\OOP\bai4_trang36\obj\Debug\bai4_trang36.csproj.CoreCompileInputs.cache
+F:\OOP\bai4_trang36\obj\Debug\bai4_trang36.exe
+F:\OOP\bai4_trang36\obj\Debug\bai4_trang36.pdb
